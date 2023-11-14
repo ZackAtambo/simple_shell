@@ -1,8 +1,8 @@
 #include "shell.h"
 
 /**
- * new_regy - function that removes comments froma string
- * @regy: pointer to string with comments
+ * new_regy - function that removes comments from a string
+ * @regy: pointer to a string with comments
   */
 
 void new_regy(char **regy)

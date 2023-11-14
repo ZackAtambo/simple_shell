@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * exit_handler - function to handle the exit status/rank
+ * exit_handler - function to handle the exit rank/status
  * @val: the tokenized register
  * @regy: the register
  * Return: 0 on success

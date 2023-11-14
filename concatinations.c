@@ -1,10 +1,10 @@
 #include "shell.h"
 
 /**
-  * strcat_x -  function that concatenates two strings
-  * @src: first string t be concatenated
-  * @dest: second string to be concatenated with the first one
-  * Return: the  concatenated string
+  * strcat_x -  function that concatinates two strings
+  * @src: first string t be concatinated
+  * @dest: second string to be concatinated with the first one
+  * Return: the  concatinated string
   */
 char *strcat_x(char *src, char *dest)
 {
